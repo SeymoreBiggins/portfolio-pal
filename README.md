@@ -10,4 +10,4 @@ A website that offers my portolio - on display
 ## Contribution
 Made with ❤️ by Zachary Harris
 
-### ©️2019 Run Buddy, Inc 
+### ©️2020 Portfolio Pal
