@@ -1,14 +1,11 @@
-# Run Buddy
+# Portfolio Pal
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers my portolio - on display
 
 ## Built With
 * HTML
 * CSS
-
-## Website
-https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Zachary Harris
